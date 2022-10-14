@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry
+ * main - This is the entry point in the program wher arguements are made
  * Return -always print 0
  */
 
