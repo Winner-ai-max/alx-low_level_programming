@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *
  * main-Program entry point
  * Return - Return 0 if there are no errors
  */
