@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - Entry point for program
- * Return - zero if there are no errors
+ * Return - Return 0 if there are no errors
  */
 int main(void)
 
