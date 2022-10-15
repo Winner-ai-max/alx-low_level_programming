@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Entry point for program
+ *
+ * main-Program entry point
  * Return - Return 0 if there are no errors
  */
 int main(void)
