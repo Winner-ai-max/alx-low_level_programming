@@ -3,8 +3,13 @@
 #include <time.h>
 /**
  * main-Program entry point
- * Return - Return 0 if there are no errors
+ *
+ * Description: compare 1st and 2nd  number
+ * and prin the outcome
+ *
+ * Return: 0
  */
+
 int main(void)
 
 {
