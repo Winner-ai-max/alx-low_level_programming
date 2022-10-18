@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	int num; //our int will be called num
+	int num;
 
 	for (num = '0'; num <= '9'; num++)
 	{
@@ -17,9 +17,10 @@ int main(void)
 		}
 		else
 		{
-			putchar (',')
+			putchar (',');
 			putchar (' ');
 		}
 	}
-	putchar ('\n')
+	putchar ('\n');
 	return (0);
+}
